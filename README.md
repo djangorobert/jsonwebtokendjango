@@ -1,3 +1,3 @@
 # jsonwebtokendjango
 
-![Alt text](jwt1.GIF?raw=true)
+![Alt text](jwttoken.GIF?raw=true)
